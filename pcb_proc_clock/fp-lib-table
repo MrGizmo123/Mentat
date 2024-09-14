@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Crystal_Can")(type "KiCad")(uri "${KIPRJMOD}/Crystal_Can.pretty")(options "")(descr ""))
+)

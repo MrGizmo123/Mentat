@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "47b7d3d6-540e-4625-b984-4d748bceb7ec")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 120.65 113.03)
+		(size 12.7 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1a8a98b3-c93c-43fd-94e6-af4a0da97ede")
+		(property "Sheetname" "registers"
+			(at 120.65 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "reg16.kicad_sch"
+			(at 120.65 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb_proc_2"
+				(path "/47b7d3d6-540e-4625-b984-4d748bceb7ec"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 140.97)
+		(size 12.7 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ce5c744-e7c4-4edf-b3f0-0c3efdcab7b7")
+		(property "Sheetname" "Display"
+			(at 156.21 140.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display16.kicad_sch"
+			(at 156.21 179.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb_proc_2"
+				(path "/47b7d3d6-540e-4625-b984-4d748bceb7ec"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 33.02)
+		(size 40.64 71.12)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a23da9e-7cfe-4582-a6b4-f9c6ffceae74")
+		(property "Sheetname" "adder"
+			(at 59.69 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adder16.kicad_sch"
+			(at 59.69 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb_proc_2"
+				(path "/47b7d3d6-540e-4625-b984-4d748bceb7ec"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 60.96)
+		(size 20.32 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0292ebd-b28f-4108-a5dc-03d60b320b8d")
+		(property "Sheetname" "Conditional Inverter"
+			(at 185.42 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cond_inverter.kicad_sch"
+			(at 185.42 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb_proc_2"
+				(path "/47b7d3d6-540e-4625-b984-4d748bceb7ec"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 45.72)
+		(size 29.21 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "baecd185-aff3-4448-b62f-87ba1d5fd892")
+		(property "Sheetname" "bitwise"
+			(at 129.54 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bitwise.kicad_sch"
+			(at 129.54 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb_proc_2"
+				(path "/47b7d3d6-540e-4625-b984-4d748bceb7ec"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

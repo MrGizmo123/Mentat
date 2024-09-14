@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EEPROMS")(type "KiCad")(uri "${KIPRJMOD}/EEPROMS.kicad_sym")(options "")(descr ""))
+)
